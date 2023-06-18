@@ -1,0 +1,72 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@100&display=swap');
+
+.homepage-cover{
+    position: absolute;
+    width: 1440px;
+    height: 818px;
+    left: 0px;
+    top: 0px;
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    z-index: -1;
+} */
+
+/* .CoverPage{
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    z-index: -1;
+} */
+
+/* .book-now-container{
+    position: absolute;
+    width: 251px;
+    height: 41px;
+    left: 171px;
+    top: 560px;
+
+    font-family: 'Be Vietnam Pro';
+    font-style: italic;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 47px;
+    text-align: center;
+    letter-spacing: 0.09em;
+
+    color: #000000;
+}
+
+.rectange{
+    position: absolute;
+    width: 303px;
+    height: 70px;
+    left: 143px;
+    top: 551px;
+
+    background: #FFFFFF;
+    border-radius: 79px;
+}
+
+.about-us-container{
+    position: absolute;
+    width: 592px;
+    height: 250px;
+    left: 732px;
+    top: 947px;
+
+    font-family: 'Be Vietnam Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    text-align: justify;
+    letter-spacing: 0.09em;
+
+    background: linear-gradient(90deg, #694501 0%, #E29900 100%), linear-gradient(90deg, #694501 0%, #E29900 100%), #AF7601;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+} */

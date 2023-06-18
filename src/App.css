@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Inria+Sans:wght@300&family=JetBrains+Mono:wght@100&family=Oleo+Script+Swash+Caps&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@100&display=swap');
+
+:root {
+    --navbar-bg-color: white;
+}
+
+body{
+    background-color: var(--navbar-bg-color);
+}
