@@ -1,13 +1,14 @@
 import React from "react";
-import '../App.css';
-import '../styles/coverpage.css';
+import VideoPlayer from "./VideoPlayer";
 
-function CoverPage(){
-    return (
-        <div className="coverpage-container">
-            <video src="../public/images/CoverPage.mp4" autoPlay loop muted />
-        </div>
-    )
-};
+function CoverPage() {
+  const videoSource = "/images/CoverPage.mp4";
+
+  return (
+    <div className="coverpage-container">
+      <VideoPlayer videoSource={videoSource} />
+    </div>
+  );
+}
 
 export default CoverPage;
